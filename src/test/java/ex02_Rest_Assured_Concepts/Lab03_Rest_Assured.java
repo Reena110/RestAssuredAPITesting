@@ -1,4 +1,4 @@
-package ex_Rest_Assured_Concepts;
+package ex02_Rest_Assured_Concepts;
 
 public class Lab03_Rest_Assured
 {

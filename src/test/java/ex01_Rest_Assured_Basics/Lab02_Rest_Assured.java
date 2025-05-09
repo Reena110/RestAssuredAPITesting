@@ -1,4 +1,4 @@
-package ex_Rest_Assured_Basics;
+package ex01_Rest_Assured_Basics;
 
 import io.restassured.RestAssured;
 
